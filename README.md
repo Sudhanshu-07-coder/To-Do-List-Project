@@ -31,14 +31,3 @@ The project focuses on task management while demonstrating core Python concepts 
 1. Clone the repository:
 ```bash
 git clone https://github.com/Sudhanshu-07-coder/To-Do-List-Project.git
-
-## 🎯 Internship Objective
-- This project was developed to strengthen understanding of:  <br>
-- Python fundamentals <br>
-- File handling using JSON  <br>
-- Data structures  <br>
-- Command-line application development <br>
-
-## 👤 Author
-- Sudhanshu Singh <br>
-- GitHub: https://github.com/Sudhanshu-07-coder <br>
